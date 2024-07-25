@@ -1,0 +1,7 @@
+C:\_IDF\Calculator\Classes_exercises\bin\Debug\Classes_exercises.exe.config
+C:\_IDF\Calculator\Classes_exercises\bin\Debug\Classes_exercises.exe
+C:\_IDF\Calculator\Classes_exercises\bin\Debug\Classes_exercises.pdb
+C:\_IDF\Calculator\Classes_exercises\obj\Debug\Classes_exercises.csproj.AssemblyReference.cache
+C:\_IDF\Calculator\Classes_exercises\obj\Debug\Classes_exercises.csproj.CoreCompileInputs.cache
+C:\_IDF\Calculator\Classes_exercises\obj\Debug\Classes_exercises.exe
+C:\_IDF\Calculator\Classes_exercises\obj\Debug\Classes_exercises.pdb
